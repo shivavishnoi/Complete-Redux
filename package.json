@@ -1,0 +1,20 @@
+{
+  "name": "complete-redux",
+  "version": "1.0.0",
+  "description": "A Simple application for revising Redux Concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivavishnoi/Complete-Redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivavishnoi/Complete-Redux/issues"
+  },
+  "homepage": "https://github.com/shivavishnoi/Complete-Redux#readme"
+}
